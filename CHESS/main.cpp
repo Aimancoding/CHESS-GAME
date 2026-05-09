@@ -358,6 +358,6 @@ int main()
 
         window.display();
     }
-
+//fixed player turn bug
     return 0;
 }
