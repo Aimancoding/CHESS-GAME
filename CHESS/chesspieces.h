@@ -97,7 +97,7 @@ public:
         return true;
     }
 };
-
+//implemented rook logic
 
 //  KNIGHT
 class Knight : public ChessPiece {
