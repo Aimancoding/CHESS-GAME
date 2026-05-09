@@ -138,6 +138,7 @@ public:
         return true;
     }
 };
+// fixed movement bugs
 //  QUEEN
 class Queen : public ChessPiece {
 public:
