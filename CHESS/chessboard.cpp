@@ -232,3 +232,4 @@ bool ChessBoard::castling(const string& color, const string& side)
     else return false;
     return true;
 }
+//Added chess board
