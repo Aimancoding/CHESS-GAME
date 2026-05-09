@@ -193,6 +193,7 @@ public:
         return true;
     }
 };
+//Added valid move logic
 inline bool isSquareUnderAttack(int targetRow, int targetCol,
     const string& attackerColor,
     ChessPiece* gameBoard[8][8])
