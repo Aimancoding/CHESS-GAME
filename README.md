@@ -53,7 +53,7 @@ CHESS-GAME/
 └── .gitattributes
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 
