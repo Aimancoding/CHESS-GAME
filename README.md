@@ -1,10 +1,10 @@
- Chess Game
+#  Chess Game
 
 A GUI-based Chess Game developed in **C++** as a university programming project.
 
 The project implements the core rules and functionality of a standard chess game, including piece movement, captures, check, checkmate, castling, and other game rules.
 
- Features
+##  Features
 
 * Complete chess board and piece implementation
 * GUI-based gameplay
@@ -18,14 +18,14 @@ The project implements the core rules and functionality of a standard chess game
 * Win/game-over detection
 * Visual representation of the chess board and pieces
 
- Technologies Used
+##  Technologies Used
 
 * **C++**
 * **Object-Oriented Programming**
 * **GUI Programming**
 * **Visual Studio**
 
- Concepts Used
+##  Concepts Used
 
 * Object-Oriented Programming
 * Classes and Objects
@@ -37,7 +37,7 @@ The project implements the core rules and functionality of a standard chess game
 * Event Handling
 * State Management
 
- Project Structure
+##  Project Structure
 
 ```text
 CHESS-GAME/
@@ -53,7 +53,7 @@ CHESS-GAME/
 └── .gitattributes
 ```
 
- How to Run
+## 🚀 How to Run
 
 1. Clone the repository:
 
@@ -67,11 +67,13 @@ git clone https://github.com/Aimancoding/CHESS-GAME.git
 
 4. Run the application.
 
- Purpose
+
+
+##  Purpose
 
 This project was developed to strengthen my understanding of **C++, object-oriented programming, data structures, GUI development, and implementing complex game logic**.
 
- Developer
+##  Developer
 
 **Aiman Rao**
 
